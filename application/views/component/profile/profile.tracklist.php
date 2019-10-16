@@ -1,9 +1,9 @@
 <div class="tab-pane active" id="track">
 	<div class="row item-list item-list-by m-b">
 		<div class="col-xs-12">
-			<div class="item r" data-id="item-7" data-src="http://e9ddc311.ngrok.io/stream">
+			<div class="item r" data-id="item-7" data-src="https://e9ddc311.ngrok.io/stream">
 				<div class="item-media">
-					<a href="#" class="item-media-content" style="background-image: url('<?php echo base_url(); ?>assets/images/kobasolo.jpg')"></a>
+					<a href="#" class="item-media-content" style="background-image: url('<?php echo base_url(); ?>assets/images/nufi.png')"></a>
 					<div class="item-overlay center"><button class="btn-playpause">Play</button></div>
 				</div>
 				<div class="item-info">
@@ -16,7 +16,7 @@
 						<a href="#">FM</a>
 					</div>
 					<div class="item-author text-sm text-ellipsis hide">
-						<a href="#" class="text-muted">Kobasolo</a>
+						<a href="#" class="text-muted">Nufi Wardana</a>
 					</div>
 					<div class="item-meta text-sm text-muted">
 						<span class="item-meta-category"><a href="#" class="label">Pop</a></span>
