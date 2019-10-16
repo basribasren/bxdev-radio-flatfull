@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <head>
 	<meta charset="utf-8">
-	<title>pulse - Music, Audio and Radio web application</title>
+	<title>BXDEV - Music, Audio and Radio web application</title>
 	<meta name="description" content="Music, Musician, Bootstrap">
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimal-ui">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">

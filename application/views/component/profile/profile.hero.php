@@ -12,7 +12,7 @@
 				<h1 class="page-title">
 					<span class="h1 _800">TKJ NINJA</span>
 				</h1>
-				<p class="item-desc text-muted" data-ui-toggle-class="text-ellipsis">Selamat belajar buat anak-anak TKJ. Fightinggggggg...</p>
+				<p class="item-desc text-muted" data-ui-toggle-class="text-ellipsis">Iseng - iseng mirror web, buat kalian nih. Jadi belajarnya jangan malas yahhh... TKJ Fightinggggggg...</p>
 				<div class="item-action m-b">
 					<!-- <a href="#" class="btn btn-sm rounded primary">Upload</a>  -->
 					<!-- <a href="#" class="btn btn-sm rounded white">Edit Profile</a> -->

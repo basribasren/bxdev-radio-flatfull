@@ -10,7 +10,7 @@
 				<circle cx="24" cy="24" r="3" fill="#000000" />
 			</svg> -->
 			<img src="<?php echo base_url(); ?>assets/images/logo.png" alt=".">
-			<span class="hidden-folded inline">pulse</span>
+			<span class="hidden-folded inline">BXDEV</span>
 		</a>
 		<ul class="nav navbar-nav pull-right">
 			<li class="nav-item">
